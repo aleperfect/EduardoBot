@@ -50,11 +50,11 @@ global.suittag = ['51992621601'];
 global.prems = ['51992621601'];
 
 global.packname = 'Sticker';
-global.author = 'Readz Aleizn';
-global.wm = 'Readz Aleizn';
-global.titulowm = 'Readz Aleizn';
-global.titulowm2 = `Readz Aleizn`
-global.igfg = 'Readz Aleizn';
+global.author = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
+global.wm = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
+global.titulowm = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
+global.titulowm2 = `𝐞𝐝𝐮𝟕 𝐛𝐨𝐭`
+global.igfg = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,9 +79,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nReadz Aleizn`;
-global.gt = 'Readz Aleizn';
-global.mysticbot = 'Readz Aleizn';
+global.wm2 = `${dia} ${fecha}\n𝐞𝐝𝐮𝟕 𝐛𝐨𝐭`;
+global.gt = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
+global.mysticbot = '𝐞𝐝𝐮𝟕 𝐛𝐨𝐭';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
 global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
